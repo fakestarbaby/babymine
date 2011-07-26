@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem 'rails', '3.1.0.rc5'
 
 gem 'jquery-rails'
+gem 'settingslogic'
 gem 'sqlite3'
 
 group :assets do
